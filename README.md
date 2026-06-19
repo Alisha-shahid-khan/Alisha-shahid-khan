@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alisha 👋
 
-<!--
-**Alisha-shahid-khan/Alisha-shahid-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | Aspiring Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Currently learning Software Development
+- Interested in Web Development, AI & Machine Learning
+- Building projects to improve my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Learning)
+- Python
+- C#
+- JavaScript
+- HTML, CSS
+- ASP.NET Core MVC (basic)
+- Machine Learning (beginner)
+
+## 📌 Projects
+- Digital Islamic Library (Web App)
+- Machine Learning Image Classification Project
+- Basic C# and Python Projects
+
+## 📫 Contact
+GitHub: Alisha-shahid-khan
